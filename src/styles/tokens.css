@@ -1,0 +1,24 @@
+/* Variables de marca. Todo vive bajo .tp-app para no chocar con el CSS existente del proyecto. */
+.tp-app {
+  --tp-green: #39a900;      /* verde institucional SENA */
+  --tp-green-d: #2b7f00;
+  --tp-green-l: #e7f5dc;
+  --tp-navy: #00304d;
+  --tp-navy-2: #06496b;
+  --tp-ink: #0d2433;
+  --tp-muted: #4a6070;
+  --tp-line: #d6e1e7;
+  --tp-bg: #f1f6f6;
+  --tp-surface: #ffffff;
+  --tp-cyan: #50e5f9;
+  --tp-yellow: #fdc300;
+  --tp-danger: #b3261e;
+  --tp-focus: #0a6cff;
+  --tp-display: "Bricolage Grotesque", "Work Sans", system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+  --tp-sans: "Work Sans", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  --tp-r-s: 8px;
+  --tp-r-m: 14px;
+  --tp-r-l: 24px;
+  --tp-max: 1200px;
+  --tp-header-h: 72px;
+}
